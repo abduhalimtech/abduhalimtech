@@ -7,11 +7,22 @@
 
 - 👨‍💻 All of my projects are available at [abduhalim.uz](abduhalim.uz)
 
-- 📝 I regularly write articles on [https://t.me/abduhalimtech](https://t.me/abduhalimtech)
+## Expertise 🛠️
 
-- 💬 Ask me about **php, laravel, mysql, vuejs**
+- **PHP & Laravel**: Advanced application development with a focus on scalability and maintainability.
+- **JavaScript & Vue.js**: Crafting dynamic and responsive user interfaces that enhance user experience.
+- **Livewire**: Integrating modern front-end techniques with Laravel for reactive applications.
+- **MySQL**: Designing robust database schemas and optimizing queries for performance.
+- **Redis**: Implementing caching strategies to improve application response times.
+- **HTML & CSS**: Ensuring web standards compliance and cross-browser compatibility.
+- **Python**: Utilizing scripting to automate tasks and process data, and developing telegram bots.
+- **Git & Linux**: Managing source code and configuring server environments for optimal deployment.
 
-- 📫 How to reach me **abduhalimdev@gmail.com**
+## Let's Connect 📫
+
+I'm open to collaborative opportunities, knowledge exchange, or simply connecting with like-minded professionals.
+
+- **Email**: [abduhalimdev@gmail.com](mailto:abduhalimdev@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
