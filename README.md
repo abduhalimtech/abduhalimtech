@@ -2,7 +2,7 @@
 <h3 align="center">As a dedicated and passionate middle-level PHP developer, I specialize in crafting elegant and efficient web solutions, with a particular affinity for the Laravel framework. My journey in web development is driven by a constant quest for learning and improvement, guided by the principles of clean code and innovative design.</h3>
 
 
-- 👨‍💻 All of my projects are available at [abduhalim.uz](abduhalim.uz)
+- 👨‍💻 Some of my projects are available at [abduhalim.uz](abduhalim.uz)
 
 ## Expertise 🛠️
 
